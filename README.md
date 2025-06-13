@@ -67,8 +67,8 @@
 <p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></p>
 <br>
 <hr>
-<p>Credits: <a href="https://github.com/Aditya664">Aditya Deshmukh</a></p>
-<p>Last Edited on: 04/09/2021</p> 
+<p>Credits: <a href="https://github.com/rifqyhafidz">Rifqy Hafidz</a></p>
+<p>Last Edited on: 010/04/2025</p> 
 
 <!--
 **rifqyhafidz/rifqyhafidz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
